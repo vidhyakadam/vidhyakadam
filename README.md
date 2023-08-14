@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidhyakadam
 - 👀 I’m interested in Full Stack web development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning in Acciojob
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me vidhyakadam124@gmail.com
 
